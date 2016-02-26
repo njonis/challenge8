@@ -1,0 +1,43 @@
+.dropdown {
+    float: left;
+}
+
+.dropdown a{
+    text-decoration: none;
+    color:#999999;
+}
+
+.navdroite {
+    padding-right: 2em;
+}
+
+.sousEnveloppe{
+    max-height: 250px;
+    max-width: 250px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+#margenav{
+    margin-top: 3.6em;
+}
+
+.navgauche ul{
+    position: fixed;
+    left: 0;
+    background: #222222;
+    padding-left: 0px;
+    height: 100%;
+}
+
+.navgauche a{
+    color:#999999;
+    text-decoration: none;
+}
+
+.navgauche li{
+    list-style-type: none;
+    height: 3.5em;
+    padding: 1em;
+    width: 212px;
+}

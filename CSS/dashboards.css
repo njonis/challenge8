@@ -1,0 +1,20 @@
+.hautpanel{
+    color:#fff;
+    background: #337AB7;
+    margin-bottom: 0;
+}
+
+.fondpanel{
+    background: #F5F5F5;
+    color: #337AB7;
+}
+
+.graphique, .donutcolonne{
+    margin-top: 2em;
+    border: solid 1px #F5F5F5;
+    border-radius: 5%;
+}
+
+.droitedonut{
+    margin-top: 2em;
+}
